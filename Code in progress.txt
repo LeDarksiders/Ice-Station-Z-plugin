@@ -1,0 +1,37 @@
+I try to create its code but it may be that even if I succeed it may be that some are not in the Plugin because they are too powerful or they will only be there if I succeed in creating the anti code that I will keep private.
+If you have any other idea for code let me know (:
+
+Code in creation:
+
+- Speed snowboarding v1.1
+- pocket sky (displays the clouds on the screen of all players on the server)
+
+-Kill hacker (kills all hackers who have max status codes)
+
+-Tp player reverse (does not allow to teleport to the player but to teleport them to you)
+
+-Anti Crash Hacker v1.2 (Try to fix the bug of the animation which is freezing with this code even if it is the purpose of the code)
+
+-Invisible war (makes that when a player shoots anywhere the ball will go to someone on the server)
+
+-Random Mode (the code is almost finished but I still have to fix bugs, it makes sure that everything is randomized in the game, it goes from stuff, to life status, to the name of the servers and the number of people, the day and the id and many other things!!!)
+
+-MapClothes (allows you to change clothes with textures from the map)
+
+-Control Zombie v1.1 (allows you to transform and take control of a zombie)
+
+-Walking on icebergs (as the name suggests: walking on icebergs)
+
+-drop clone (allows you to drop a clone of yourself)
+-Spawn Zombie v1.2 (really allows you to spawn a zombie and not to teleport it to yourself)
+
+-Control Status (allows you to control the survival status of other players)
+
+-Random player status (Make everyone have random survival status)
+
+- Possession of chat (taking possession of a player's chat, to make it simple it changes our nickname to the nickname of the person to whom we want to take control when we talk to him)
+
+--Crash target (why crash everyone when only one person wants to crash? And why not even be able to crash Yunix with it??? and well I'm working on it)
+
+
+... I couldn't promise to create all of it, but I'm working on it (:
